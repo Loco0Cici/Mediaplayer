@@ -1,0 +1,4 @@
+#Mon Nov 04 19:26:30 CST 2019
+base.0=/Users/reese/Desktop/Player/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
