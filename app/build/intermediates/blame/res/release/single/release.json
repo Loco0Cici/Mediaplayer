@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_popup.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/popup.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4_ic_type_file.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xxhdpi-v4/ic_type_file.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_a_z_click.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/a_z_click.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_middle_normal.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_activity_about.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_top_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_welcome.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/welcome.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_appwidget_bg_holo.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/appwidget_bg_holo.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_dialog_footer.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/layout/dialog_footer.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-mdpi-v4_ic_type_folder.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-mdpi-v4/ic_type_folder.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_aty_yaqu_top.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/aty_yaqu_top.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_actionsheet_top_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4_ic_type_folder.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xxhdpi-v4/ic_type_folder.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_me.jpg.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/me.jpg"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_appwidget_bg.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_circle.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/circle.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_notification_play.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/notification_play.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_image_guide_bg.jpg.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/image_guide_bg.jpg"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_list_view.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_name_login.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/name_login.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_notification_pre.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/notification_pre.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/anim_tip.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/anim/tip.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_view_actionsheet.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/view_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_stat_notify.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/stat_notify.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_alert_btn_single_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_alertdialog_right_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_login.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_default_head_80.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/default_head_80.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_image_beijin.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/image_beijin.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_aty_main.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/aty_main.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_notification_next.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/notification_next.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_dialog_file_list.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/layout/dialog_file_list.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_sou_list_item.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/sou_list_item.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_alertdialog_single_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_apollo_holo_dark_pause.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/apollo_holo_dark_pause.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_layout_notification.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/layout_notification.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_login1.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/login1.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_activity_play.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/activity_play.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_notification_pause.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/notification_pause.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_random.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/random.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_apollo_holo_dark_play.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/apollo_holo_dark_play.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_alert_btn_right_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/alert_btn_right_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-hdpi-v4_ic_directory_parent.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-hdpi-v4/ic_directory_parent.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_add.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_single_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_aty_search.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/aty_search.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-hdpi-v4_ic_type_file.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-hdpi-v4/ic_type_file.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_aty_play.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/aty_play.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_alpha_bg_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/alpha_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_dialog_main.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/layout/dialog_main.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_sidebar_background.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/sidebar_background.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-hdpi-v4_ic_type_folder.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-hdpi-v4/ic_type_folder.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_sou.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/sou.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4_ic_directory_parent.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xhdpi-v4/ic_directory_parent.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_apollo_holo_dark_next.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/apollo_holo_dark_next.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_dialog_file_list_item.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/layout/dialog_file_list_item.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/xml_searchable.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/anim_actionsheet_dialog_in.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/anim/actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_trans_bg.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/trans_bg.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_stat_notify.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/stat_notify.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_bottom_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-mdpi-v4_ic_type_file.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-mdpi-v4/ic_type_file.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_single_normal.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_a_z.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/a_z.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_back.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_list_item.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_actionsheet_single_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_alertdialog_left_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4_ic_type_folder.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xhdpi-v4/ic_type_folder.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/52ddb5c02001ea14577a54c5f64f3913/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_sort_icon_bg_click.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/sort_icon_bg_click.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_dialog_header.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/layout/dialog_header.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4_ic_directory_parent.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xxhdpi-v4/ic_directory_parent.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_splash_activity.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/layout/splash_activity.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_bottom_normal.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_top_normal.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-hdpi_apollo_holo_dark_prev.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-hdpi/apollo_holo_dark_prev.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-xhdpi-v4_ic_type_file.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-xhdpi-v4/ic_type_file.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/anim_actionsheet_dialog_out.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/anim/actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_actionsheet_bottom_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_alert_btn_left_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/c96cff8bf2fa4cfa9737c4178dc9c6d9/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable_actionsheet_middle_selector.xml.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable/actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/mipmap-mdpi-v4_ic_directory_parent.png.flat",
+        "source": "/Users/reese/.gradle/caches/transforms-1/files-1.1/filepicker-1.0.2.aar/ddc75852ae394da8e571f99b2060fe99/res/mipmap-mdpi-v4/ic_directory_parent.png"
+    },
+    {
+        "merged": "/Users/reese/Desktop/PlayerEx/app/build/intermediates/res/merged/release/drawable-xhdpi_actionsheet_middle_pressed.9.png.flat",
+        "source": "/Users/reese/Desktop/PlayerEx/app/src/main/res/drawable-xhdpi/actionsheet_middle_pressed.9.png"
+    }
+]
