@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Oct 04 16:15:04 CST 2019
+#Mon Nov 04 19:49:56 CST 2019
 0.baseType=DIRECTORY
-0.base=/Users/reese/Desktop/Player/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/Users/reese/Desktop/PlayerEx/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1
