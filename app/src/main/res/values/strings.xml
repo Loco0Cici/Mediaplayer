@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MediaActivity!</string>
-    <string name="app_name">Media</string>
-    <string name="search">搜索本地音乐</string>
-    <string name="clear_music_list">清除播放列表</string>
-    <string name="web">在线播放</string>
-    <string name="exit">退出</string>
+
+    <string name="app_name">音乐随身听</string>
+    <string name="search_hint">请输入歌名  / 歌手名</string>
+    <string name="title_activity_search_">Search_Activity</string>
+
+    <color name="test_color">  #696969</color>
+
 </resources>
